@@ -100,6 +100,8 @@ Business Insights & Conclusions
 ---
 
 # 📂 Project Structure
+
+
 E-commerce-Customer-Analysis
 │
 ├── Data
