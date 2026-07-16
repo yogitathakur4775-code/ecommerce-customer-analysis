@@ -124,25 +124,25 @@ E-commerce-Customer-Analysis
 
 ## Top 10 Customers by Revenue
 
-![Top Customers](Screenshots/Top_Customers.png)
+![Top Customers](screenshot/Top_Customers.png)
 
 ---
 
 ## Category-wise Sales
 
-![Category Sales](Screenshots/Category_Sales.png)
+![Category Sales](screenshot/Category_Sales.png)
 
 ---
 
 ## Payment Method Distribution
 
-![Payment Method Distribution](Screenshots/Payment_Method_Distribution.png)
+![Payment Method Distribution](screenshot/Payment_Method_Distribution.png)
 
 ---
 
 ## Monthly Sales Trend
 
-![Monthly Sales Trend](Screenshots/Monthly_Sales_Trend.png)
+![Monthly Sales Trend](screenshot/Monthly_Sales_Trend.png)
 
 ---
 
