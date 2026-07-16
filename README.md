@@ -117,9 +117,6 @@ E-commerce-Customer-Analysis
 │   └── Monthly_Sales_Trend.png
 │
 └── README.md
-
----
-
 # 📸 Visualization Preview
 
 ## Top 10 Customers by Revenue
